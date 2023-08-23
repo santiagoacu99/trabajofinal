@@ -19,14 +19,13 @@
     width: 100%;
     justify-content: center;
     gap: 1vw;
-    flex-wrap: wrap;
+    
 }
 .cards-marcas{
     display: flex;
     flex-direction: column;
     justify-content: center;
     width: 20%;
-    height: 0%;
     align-items: center;
 }
 
