@@ -13,7 +13,7 @@ function App() {
       <Navegador />
       <Routes>
         <Home />
-         <Route index='home' element ={ <Home />}></Route>
+         {/* <Route index='home' element ={ <Home />}></Route> */}
          <Route path='home' element ={ <Home />}></Route>
          <Route path='/Ingresar' element = { <Ingresar />}></Route> 
          <Route path='/placas' element ={ <Placas />}></Route>
