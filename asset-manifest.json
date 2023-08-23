@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/trabajofinal/static/css/main.b4c1e98c.css",
+    "main.js": "/trabajofinal/static/js/main.6f73c190.js",
+    "static/media/logo.png": "/trabajofinal/static/media/logo.9a883408d249f3cc4b87.png",
+    "static/media/pc.webp": "/trabajofinal/static/media/pc.987cef60306536f28cbe.webp",
+    "static/media/razer.webp": "/trabajofinal/static/media/razer.5157ee61b7000f869297.webp",
+    "static/media/gamingxp.png": "/trabajofinal/static/media/gamingxp.9e3745316fe2e47d4939.png",
+    "static/media/monitores144.png": "/trabajofinal/static/media/monitores144.2e5259b08e1e4bcfad15.png",
+    "static/media/monitorsG.png": "/trabajofinal/static/media/monitorsG.6fa1d3d6a19296ce289f.png",
+    "static/media/pcgamers.webp": "/trabajofinal/static/media/pcgamers.c9cf0f4bc44e74fb822b.webp",
+    "static/media/preciosNotebooks.png": "/trabajofinal/static/media/preciosNotebooks.d1bf00af1752837a6d12.png",
+    "static/media/notebookGaming.png": "/trabajofinal/static/media/notebookGaming.9e5f0044cb06f44ed8d5.png",
+    "static/media/AMD.png": "/trabajofinal/static/media/AMD.fe6342e58c269ee8694b.png",
+    "static/media/workstation.webp": "/trabajofinal/static/media/workstation.3dd2d8e58dd86ef7b0dc.webp",
+    "static/media/publicm.webp": "/trabajofinal/static/media/publicm.b7389276c73d9f17b877.webp",
+    "static/media/publicg.webp": "/trabajofinal/static/media/publicg.bf47988f3e8c1338aa60.webp",
+    "static/media/NVIDIA.webp": "/trabajofinal/static/media/NVIDIA.9edc1fba1970c3a0ec90.webp",
+    "static/media/razer1.webp": "/trabajofinal/static/media/razer1.b274a0ad14edb0e90412.webp",
+    "static/media/marcasaorus.webp": "/trabajofinal/static/media/marcasaorus.bc2b14d027d70223b11c.webp",
+    "static/media/aorus1.webp": "/trabajofinal/static/media/aorus1.2a5919115ad1c883084f.webp",
+    "static/media/elgato1.webp": "/trabajofinal/static/media/elgato1.df825da864be58db8bf1.webp",
+    "static/media/notebooks.webp": "/trabajofinal/static/media/notebooks.9294954a1cf9752da581.webp",
+    "static/media/marcascorsair.webp": "/trabajofinal/static/media/marcascorsair.8fc4c6a0175436f6e389.webp",
+    "static/media/corsair1.webp": "/trabajofinal/static/media/corsair1.a917d804a041e3c48fe5.webp",
+    "static/media/marcasrazer.webp": "/trabajofinal/static/media/marcasrazer.069edc276adcd21567c3.webp",
+    "static/media/marcaselgato.webp": "/trabajofinal/static/media/marcaselgato.06358cb31274035579e5.webp",
+    "static/media/DATAWEB.jpg": "/trabajofinal/static/media/DATAWEB.465a73646afefb813a6a.jpg",
+    "index.html": "/trabajofinal/index.html",
+    "main.b4c1e98c.css.map": "/trabajofinal/static/css/main.b4c1e98c.css.map",
+    "main.6f73c190.js.map": "/trabajofinal/static/js/main.6f73c190.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4c1e98c.css",
+    "static/js/main.6f73c190.js"
+  ]
+}
